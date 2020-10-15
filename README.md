@@ -2,7 +2,8 @@
 
 I'm a student that loves apply his knowledge to solve problems, create amazing products and impact lives.
 
-Linkedin: https://www.linkedin.com/in/enzo-portela-196316169/
+[![Github Badge](https://img.shields.io/badge/-GitHub-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EnzoPortela/)](https://github.com/EnzoPortela/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Linkedin: https://www.linkedin.com/in/enzo-portela-196316169/)](Linkedin: https://www.linkedin.com/in/enzo-portela-196316169/)
 
 
 ---
