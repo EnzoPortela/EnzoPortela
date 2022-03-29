@@ -1,8 +1,6 @@
-### Hi there 👋
-A student who loves to solve problems and impact lives.
+### Enzo Portela
+A student that loves apply his knowledge to solve problems, create amazing products and impact lives.
 
-![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoPortela&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPortela&layout=compact)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Enzo%20Portela-097fb5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzoportela/)](https://www.linkedin.com/in/enzoportela/) 
+[![Gmail Badge](https://img.shields.io/badge/-enzoportela2003@gmail.com-097fb5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzoportela2003@gmail.com)](mailto:enzoportela2003@gmail.com)
 
